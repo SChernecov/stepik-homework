@@ -1,1 +1,1 @@
-# stepik-homework
+Examples of automated testing
